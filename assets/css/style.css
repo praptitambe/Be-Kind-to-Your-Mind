@@ -1,0 +1,40 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Macondo&display=swap');
+
+/* CSS Variables */
+:root {
+    --primary-font: "Inter", sans-serif;
+    --secondary-font: "Macondo", cursive;
+    --primary-color: #640D5F; /* dark violet */
+    --secondary-color: #aa9581; /* light brown */
+    --highlight-color: #dcf440; /* blue */
+    --highlight-color-light: #e3f027; /* light blue */
+    --text-color:#432E54;
+}
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+/* Style the hero section */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero.jpeg');
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center top;
+color: #FFEBD4;
+padding: 8rem 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+    
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    display: block;
+}
