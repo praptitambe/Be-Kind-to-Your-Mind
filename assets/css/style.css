@@ -6,9 +6,9 @@
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", cursive;
     --primary-color: #640D5F; /* dark violet */
-    --secondary-color: #db34a3; /* light brown */
-    --highlight-color: #036038; /* green */
-    --highlight-color-light: #2fd88f; /* light green */
+    --secondary-color: #EB5B00; /* orange */
+    --highlight-color: rgb(6, 91, 6); /* green */
+    --highlight-color-light: #FFB200; /* light yellow */
     --text-color:#432E54;
 }
 
@@ -25,7 +25,7 @@ h1,
 h2,
 h3 {
     font-family: var(--secondary-font);
-    /* color: var(--primary-color); */
+     color: var(--primary-color); 
 }
 
 h1,
