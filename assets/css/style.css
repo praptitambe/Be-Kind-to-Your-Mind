@@ -125,7 +125,17 @@ align-items: center;
     background-color: var(--primary-color);
     color: white;
     padding-bottom: 3rem; 
-    height:60px;
     margin-top: auto;
     
+}
+
+.social-links i {
+    color: var(--highlight-color-light);
+    font-size: 1.5rem;
+    -webkit-transition: color 0.3s ease-in-out;
+    -o-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+}
+.social-links i:hover {
+    color: var(--secondary-color);
 }
