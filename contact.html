@@ -36,10 +36,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#challenges">Mental Health Challenges</a>
+                        <a class="nav-link" aria-current="page" href="index.html">Mental Health Challenges</a>
                     </li>
                     <li class="nav-item dropdown">
                             <a class="nav-link btn dropdown-toggle" href="#challenges" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -70,6 +70,47 @@
     </nav>
 
 
+    <header class="container text-center" id="mainContent">
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header" id="modal">
+                        <h1 class="modal-title fs-5" id="exampleModalLabel">Need Help</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body" id="modal">
+                        <p>
+                            If you or someone you know is struggling with mental health, please reach out for support.
+                            You're not alone, and help is available.f you are thinking about ending your life, please
+                            call 999 (UK) or go
+                            to A&E and ask for the contact of the nearest crisis resolution team. These are teams of
+                            mental health care
+                            professionals who work with people in severe distress.Please enter your name and email
+                            address we will contact you.
+                        </p>
+                        <form class="row g-3">
+                            <div class="col-lg-6">
+                                <label for="inputName" class="form-label">Name</label>
+                                <input type="text" class="form-control" id="inputName" required>
+                            </div>
+                            <div class="col-lg-6">
+                                <label for="inputEmail" class="form-label">Email</label>
+                                <input type="email" class="form-control" id="inputEmail" required>
+                            </div>
+                            <div class="col-12 mb-4">
+                                <button type="submit" class="btn btn-success">
+                                    Submit
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
 
     <main id="main" class="container section">
