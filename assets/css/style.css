@@ -6,9 +6,9 @@
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", cursive;
     --primary-color: #640D5F; /* dark violet */
-    --secondary-color: #aa9581; /* light brown */
-    --highlight-color: #dcf440; /* blue */
-    --highlight-color-light: #e3f027; /* light blue */
+    --secondary-color: #db34a3; /* light brown */
+    --highlight-color: #036038; /* green */
+    --highlight-color-light: #2fd88f; /* light green */
     --text-color:#432E54;
 }
 
@@ -118,4 +118,14 @@ align-items: center;
 /* Modal */
 #modal{
     color:var(--text-color);
+}
+
+/* Style the footer */
+#footer {
+    background-color: var(--primary-color);
+    color: white;
+    padding-bottom: 3rem; 
+    height:60px;
+    margin-top: auto;
+    
 }
