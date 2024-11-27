@@ -267,3 +267,4 @@ The live deployed application can be found deployed on [Github](https://praptita
 - [Stack Overflow](https://stackoverflow.com/) for debugging more complex issues
 - [W3Schools](https://www.w3schools.com/) for teaching me Django tricks, like creating a custom 404 page
 - [Am I Responsive](https://ui.dev/amiresponsive) for my banner screenshot
+- [Copilot] for generating image and content.
