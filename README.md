@@ -1,28 +1,29 @@
-# [Musicality](https://musicality-event-booking-app-e0cfc73239f6.herokuapp.com/)
+# [Be Kind To Your Mind](https://praptitambe.github.io/Be-Kind-to-Your-Mind/)
 
-![screenshot](assets/images/iam-responsive.png)
+![screenshot](assets/documentation/iam-responsive.png)
 
 As a lover of classical music, I yearn to become immersed within a grand concert hall, basking in the warm glow of radiant oak and mahogany, and becoming washed away in an ocean rich with choral violins and cellos, transcendent piano scales, and triumphant brass crescendos. However, I have often found myself pained by jumbled heaps of vague concert information from other sites and, when I manage to find something which peaks my interest, it seldom satisfies precisely what I'm looking for.
 
-## Introducing **Musicality.**
+## Introduction
 
-Musicality is a simple yet stunningly effective web application powered by HTML, CSS, Bootstrap, JavaScript, Python, Django, and ElephantSQL. It was designed with but one purpose: to forge and unite a community of classical music lovers around the world, where anyone with a passion for strings and flutes can find a concert event near them. Details of an event will be presented clearly, giving users all the information they need, such as:
-- Who's performing the music
-- Where the event will take place (both city and venue)
-- When the event will take place (date and time)
-- How much it will cost to attend (per person)
+Be Kind To Your Mind is a simple yet stunningly effective web application powered by HTML, CSS and Bootstrap. It was designed with the purpose of promoting mental health awareness and providing resources and support for individuals struggling with mental health issues. The website aims to create a supportive community where individuals can find information, share experiences, and seek help. Key features of the website include:
+- Importance of mental health
+- Different categories of menatl health with there description
+- Need help button for urgent help
+- Methods to improve mental health
 
-If the user so desires, they can view additional details about the event which will provide them with more information about what they may or may not be interested in attending. Allowing users to really see precisely what they're going for is the most efficent way to ensure that they are fully satisfied with the service.
+If the user so desires, they can view additional details about the event which will provide them
 
-But what if someone is visiting the site with the intention of creating an event which will then be displayed to other users?
+## Purpose of Mental Health Awareness Website
 
-They can accomplish that, too. ANY user has the ability to create an event of their choosing, filling in all the required details. Fortunately, Musicality is equipped with a thorough validation system to ensure that users can't create mock events, or events with erroneous information. All events which are created by users are put up for review by a site admin, who can then scour through each created event and ensure that it is accurate in terms of details, as well as established with correct details and clear information.
+The purpose of the "Be Kind To Your Mind" website is to promote mental health awareness and provide resources and support for individuals struggling with mental health issues. The website aims to:
 
-Who is Musicality *really* intended to be used by? The answer is very simple: ***anyone.***
+- **Educate:** Provide information about various mental health conditions, their symptoms, and treatment options.
+- **Support:** Offer resources and support for individuals seeking help, including contact information for mental health professionals and support groups.
+- **Encourage:** Promote self-care and mindfulness practices to help individuals manage stress and improve their mental wellbeing.
+- **Advocate:** Raise awareness about the importance of mental health and advocate for better mental health services and support.
 
-Anyone who possesses a mouse and keyboard, a tablet, or a phone can use Musicality, because ultimately, ***anyone*** can have an infatuation for music. Other sites may attempt to disregard those who are not of a high status, but Musicality is a community for all. For those who have trudged through sites which present messy, unclear information when they just want to simply book a classical music concert event: look no further. Musicality takes all the hassle away and displays precisely what you're looking for. Once a user has found an event which they would like to attend, they simply book the event, at which point they will be alerted that their event is booked and ready for them to attend.
-
-Simple design, seamless navigation, and the aesthetic presentation of concise information. These are the qualities which Musicality strives to achieve.
+By providing clear, concise, and accurate information, the "Be Kind To Your Mind" website aims to empower individuals to take control of their mental health and seek the help they need.
 
 ## UX
 
@@ -41,10 +42,10 @@ The first thing I had in mind was a vision of something simple and clean, someth
 
 ### Colour Scheme
 
-- `#fafafa`: an off-white color used for primary text.
-- `#010150`: a dark-blue color used for the nav, footer, and primary buttons.
-- `#3838a0`: a lighter blue used for secondary buttons.
-- `#525252`: A darkish grey used for tertiary buttons/elements.
+- `#640D5F`: an off-white color used for primary text.
+- `#D91656`: a dark-blue color used for the nav, footer, and primary buttons.
+- `#EB5B00`: a lighter blue used for secondary buttons.
+- `#FFB200`: A darkish grey used for tertiary buttons/elements.
 
 I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette:
 
