@@ -161,13 +161,17 @@ The following screenshots will demonstrate the responsiveness of the site across
 
 *Health challenges pages*
 
-![Desktop All Events Top](documentation/desktop-all-events-1.png)
+![Kindness page Top](assets/documentation/desktop-kindness.png)
 
-![Desktop All Events Bottom](documentation/desktop-all-events-2.png)
+![Mindfulness page Top](assets/documentation/desktop-mindfulness.png)
+
+![Healthy Sleep page Top](assets/documentation/desktop-sleep.png)
+
+![Anxiety page Top](assets/documentation/desktop-anxiety.png)
 
 *Contact Us Page*
 
-![Desktop Sign Up](documentation/desktop-signup.png)
+![Contact Us page Top](assets/documentation/desktop-contact.png)
 
 
 
@@ -181,21 +185,17 @@ The following screenshots will demonstrate the responsiveness of the site across
 
 *Health challenges pages*
 
-![Tablet All Events Top](documentation/tablet-all-events-1.png)
+![Kindness page Top](assets/documentation/tab-kindness.png)
 
-![Tablet All Events Bottom](documentation/tablet-all-events-2.png)
+![Mindfulness page Top](assets/documentation/tab-mindfulness.png)
+
+![Healthy Sleep page Top](assets/documentation/tab-sleep.png)
+
+![Anxiety page Top](assets/documentation/tab-anxiety.png)
 
 *Contact Us Page*
 
-![Tablet Sign Up Top](documentation/tablet-signup.png)
-
-![Tablet Sign Up Bottom](documentation/tablet-signup2.png)
-
-*Sign In Page*
-
-![Tablet Sign In Top](documentation/tablet-login.png)
-
-![Tablet Sign In Bottom](documentation/tablet-login-2.png)
+![Contact Us page Top](assets/documentation/tab-contact.png)
 
 **Mobile Screen (375px)**
 
@@ -208,13 +208,17 @@ The following screenshots will demonstrate the responsiveness of the site across
 
 *Health challenges pages*
 
-![Mobile All Events Top](documentation/mobile-all-events-1.png)
+![Kindness page Top](assets/documentation/mobile-kindness.png)
 
-![Mobile All Events Bottom](documentation/mobile-all-events-2.png)
+![Mindfulness page Top](assets/documentation/mobile-mindfulness.png)
+
+![Healthy Sleep page Top](assets/documentation/mobile-sleep.png)
+
+![Anxiety page Top](assets/documentation/mobile-anxiety.png)
 
 *Contact Us Page*
 
-![Mobile Sign Up Top](documentation/mobile-signup-1.png)
+![Contact Us page Top](assets/documentation/mobile-contact.png)
 
 
 ## Tools & Technologies Used
