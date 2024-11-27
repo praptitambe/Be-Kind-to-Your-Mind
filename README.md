@@ -155,38 +155,37 @@ The following screenshots will demonstrate the responsiveness of the site across
 
 *Home Page*
 
-![Desktop Home Top](documentation/desktop-home-1.png)
+![Desktop Home Top](assets/documentation/desktop-home-top.png)
 
-![Desktop Home Bottom](documentation/desktop-home-2.png)
+![Desktop Home Bottom](assets/documentation/desktop-home-bottom.png)
 
-*All Events Page*
+*Health challenges pages*
 
 ![Desktop All Events Top](documentation/desktop-all-events-1.png)
 
 ![Desktop All Events Bottom](documentation/desktop-all-events-2.png)
 
-*Sign Up Page*
+*Contact Us Page*
 
 ![Desktop Sign Up](documentation/desktop-signup.png)
 
-*Sign In Page*
-![Desktop Sign In](documentation/desktop-login.png)
+
 
 **Tablet (768px)**
 
 *Home Page*
 
-![Tablet Home Top](documentation/tablet-home-1.png)
+![Tablet Home Top](assets/documentation/tab-home-top.png)
 
-![Tablet Home Bottom](documentation/tablet-home-2.png)
+![Tablet Home Bottom](assets/documentation/tab-home-bottom.png)
 
-*All Events Page*
+*Health challenges pages*
 
 ![Tablet All Events Top](documentation/tablet-all-events-1.png)
 
 ![Tablet All Events Bottom](documentation/tablet-all-events-2.png)
 
-*Sign Up Page*
+*Contact Us Page*
 
 ![Tablet Sign Up Top](documentation/tablet-signup.png)
 
@@ -202,28 +201,21 @@ The following screenshots will demonstrate the responsiveness of the site across
 
 *Home Page*
 
-![Mobile Home Top](documentation/mobile-home-1.png)
+![Mobile Home Top](assets/documentation/mobile-home-top.png)
 
-![Mobile Home Bottom](documentation/mobile-home-2.png)
+![Mobile Home Bottom](assets/documentation/mobile-home-bottom.png)
 
 
-*All Events Page*
+*Health challenges pages*
 
 ![Mobile All Events Top](documentation/mobile-all-events-1.png)
 
 ![Mobile All Events Bottom](documentation/mobile-all-events-2.png)
 
-*Sign Up Page*
+*Contact Us Page*
 
 ![Mobile Sign Up Top](documentation/mobile-signup-1.png)
 
-![Mobile Sign Up Bottom](documentation/mobile-signup-2.png)
-
-*Sign In Page*
-
-![Mobile Sign In Top](documentation/mobile-login.png)
-
-![Mobile Sign In Bottom](documentation/mobile-login-2.png)
 
 ## Tools & Technologies Used
 
@@ -257,6 +249,9 @@ I used [GitHub Projects](https://github.com/users/praptitambe/projects/6) to kee
 
 - CSS validation
 ![Stylesheet validation](assets/documentation/stylsheet-validation.png)
+
+- Lighthouse Report
+![Stylesheet validation](assets/documentation/lighthouse.png)
 
 
 ## Deployment
