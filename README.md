@@ -2,8 +2,6 @@
 
 ![screenshot](assets/documentation/iam-responsive.png)
 
-As a lover of classical music, I yearn to become immersed within a grand concert hall, basking in the warm glow of radiant oak and mahogany, and becoming washed away in an ocean rich with choral violins and cellos, transcendent piano scales, and triumphant brass crescendos. However, I have often found myself pained by jumbled heaps of vague concert information from other sites and, when I manage to find something which peaks my interest, it seldom satisfies precisely what I'm looking for.
-
 ## Introduction
 
 Be Kind To Your Mind is a simple yet stunningly effective web application powered by HTML, CSS and Bootstrap. It was designed with the purpose of promoting mental health awareness and providing resources and support for individuals struggling with mental health issues. The website aims to create a supportive community where individuals can find information, share experiences, and seek help. Key features of the website include:
@@ -29,42 +27,35 @@ By providing clear, concise, and accurate information, the "Be Kind To Your Mind
 
 ### Design Thinking
 
-The first thing I had in mind was a vision of something simple and clean, something which subtly blends colors without overloading the eyes; information was priority, and the presentation of such was paramount in my design thinking. Therefore, I opted to adhere to the following:
+I thought of creating a website with easy accesibl content regarding mental health.So I created a website with following components
 
-- Collapsible menu on all screen sizes. This ensured that:
-  - The links were neatly contained
-  - The navbar would not look untidy
-  - Solid white against a dark blue background would alert users to the menu
-- White backgrounds with dark text
-- White text against dark colors
-- A dark blue acting as the primary hue, giving the site a professional and formal feel
-- Clearly presented forms for users to create/edit events and reviews and sign up/log in to the site
+- Navigation bar with logo and links to different parts of the page.
+- Need help button for those who need urgent help, it opens a modal with a form.
+- Dropdown list for different categories of mental health problems.
 
 ### Colour Scheme
 
-- `#640D5F`: an off-white color used for primary text.
-- `#D91656`: a dark-blue color used for the nav, footer, and primary buttons.
-- `#EB5B00`: a lighter blue used for secondary buttons.
-- `#FFB200`: A darkish grey used for tertiary buttons/elements.
+- `#640D5F`: a dark purple color used for navbar,footer and headings.
+- `#D91656`: a dark-pink color used for text in modal.
+- `#EB5B00`: Orange color used as secondary color for custom buttons and social links when hovered.
+- `#FFB200`: Light yellow color used as highlight-color-light to highlight social links .
+- `rgb(6, 91, 6)`: Green color for need help button
 
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette:
+I used [colorhunt.co](https://colorhunt.co/palette/640d5fd91656eb5b00ffb200) to generate my colour palette:
 
-![screenshot](documentation/coolors-capstone-palette.png)
+![screenshot](assets/documentation/Color-Hunt-Palette.png)
 
 ### Typography
 
-- I used [Montserrat](https://fonts.google.com/specimen/Montserrat) for the main body text of the website. I chose this font due to its professional appearance when displaying information.
-
-- I used [Merriweather](https://fonts.google.com/specimen/Merriweather) for titles and navigation links, giving the site a more formal feel. Between this font and Montserrat, the site blended beautifully with a mix of informality and professionalism, reinforcing the fact that the site is for anyone and everyone.
+- I used [Inter](https://fonts.google.com/specimen/Inter) for the main body text of the website. 
+- I used [Macondo](https://fonts.google.com/specimen/Macondo) for titles and headings.
 
 - I used [Font Awesome](https://fontawesome.com) icons for the footer, allowing me to present links to social media platforms in a succinct manner.
 
 ## User Stories
 
-- As a User (viewer/member) I can see upcoming events so that I can book an event within a short space of time.
-- As a User (viewer) I can sign up as a member so that I can access the full features of the site.
-- As a user (any role) I can see icons for the product's socials so that I can keep up to date with news through social media.
-- As a user (any role) I can view a paginated list of events so that I can navigate through events and select which one to view/book.
+- As a user I want to access articles research about mental health topics,
+so that I can better understand mental health conditions, symptoms, and treatment options.
 
 ### Returning Site Users
 
