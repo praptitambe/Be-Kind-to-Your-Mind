@@ -56,29 +56,17 @@ I used [colorhunt.co](https://colorhunt.co/palette/640d5fd91656eb5b00ffb200) to 
 
 - As a user I want to access articles research about mental health topics,
 so that I can better understand mental health conditions, symptoms, and treatment options.
+- As a visitor to the website,I want to view a dedicated page that highlights selected mental health issues,so that I can easily access information about specific conditions and understand their symptoms, causes, and treatments.
+- As a person experiencing a mental health crisis,I want to find a list of emergency helplines and crisis intervention contacts, so that I can get immediate help if I need it.
 
-### Returning Site Users
-
-- As a Logged in user I can write a review for an event so that I can tell others about my experience.
-- As a Logged in user I can edit or my review on an event so that I can amend my review with additional information/fix mistakes.
-- As a Logged in user I can click on events and see more details so that I can see more information/reviews about the event and potentially book it.
-- As a logged in user I can read reviews on events so that I can see if it's suitable for me.
-- As a logged in user I can create an event so that I can list an upcoming event for other users to book.
-- As a logged in user I can delete my own created event so that I can ensure that irrelevant events are not booked by others.
-- As a logged in user I can edit an event that I created so that I can update information about the event if it changes.
-- As a logged in user I can book an event so that I can attend an event which I'm interested in.
-
-### Site Admin
-
-- As a Site admin I can approve or reject events from creators so that I can ensure that only proper events are listed to members.
-- As a Site admin I can approve reviews so that I can filter out offensive reviews from users.
+- As a First-Time Visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
 
 ## Wireframes
 
-Personally, I work best off low fidelity wireframes which help the overall vision to flourish. I kept my wireframes simple and used them as the foundation from which to build my final product. I wanted users to see a grid format of events when the page first loaded, initiating the first six events from the database:
-- Three events per row on Desktop
-- Two events per row on tablet
-- One event per row on mobile
+ I kept my wireframes simple and used them as the foundation from which to build my final product. I wanted users to see a grid format of challenges when the page first loaded:
+- Four challenges per row on Desktop
+- Two challenges per row on tablet
+- One challenge per row on mobile
 
 This manner of approach would ensure that users would receive precisely the information they came to the site for.
 
@@ -86,15 +74,15 @@ I used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Mobile Wireframe
 
-![Mobile Wireframe](documentation/wireframe-mobile.png)
+![Mobile Wireframe](assets/documentation/Wireframe-mobile.png)
 
 ### Tablet Wireframe
 
-![Tablet Wireframe](documentation/wireframe-tablet.png)
+![Tablet Wireframe](assets/documentation/Wireframe-tablet.png)
 
 ### Desktop Wireframe
 
-![Desktop Wireframe](documentation/wireframe-desktop.png)
+![Desktop Wireframe](assets/documentation/Wireframe-Desktop.png)
 
 ## Features
 
@@ -102,12 +90,12 @@ I used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 - **Navbar**
 
-  - The Navbar contains a navigation menu with the following links for unregistered users:
+  - The Navbar contains a navigation menu with the following links:
     - Home
-    - About
-    - All Events
-    - Register
-    - Log in
+    - Mental health challenges
+    - Categories
+    - Contact
+    - Need Help
 
   - Additional links visible to logged in USERS:
     - My Pending Events
