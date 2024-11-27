@@ -10,8 +10,6 @@ Be Kind To Your Mind is a simple yet stunningly effective web application powere
 - Need help button for urgent help
 - Methods to improve mental health
 
-If the user so desires, they can view additional details about the event which will provide them
-
 ## Purpose of Mental Health Awareness Website
 
 The purpose of the "Be Kind To Your Mind" website is to promote mental health awareness and provide resources and support for individuals struggling with mental health issues. The website aims to:
